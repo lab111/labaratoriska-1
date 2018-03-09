@@ -1,0 +1,14 @@
+commit 1ed42f8d1a901ba2fad385ca4b9ac9867a2c5b89 (HEAD -> logging, 
+origin/master, master)
+Author: unknown <viktorija.velinova@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:55:36 2018 +0100
+
+    modify l1.txt
+
+commit 2925a9f6fef8b2c694f58bc8447858e734512b1c
+Author: unknown <viktorija.velinova@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:52:09 2018 +0100
+
+    Initial commit
+
+
